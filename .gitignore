@@ -1,0 +1,5 @@
+# IDEs
+*.vscode
+
+# OS X
+*.DS_Store

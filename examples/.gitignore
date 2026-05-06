@@ -1,0 +1,6 @@
+# Ignore files if without copywright
+*.pdf
+*.md
+
+!INDEX.md
+!PREFERENCE.md
