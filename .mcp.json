@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mineru": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": [
+        "mineru-open-mcp"
+      ],
+      "env": {
+        "MINERU_API_TOKEN": "your_api_token_here"
+      }
+    }
+  }
+}
