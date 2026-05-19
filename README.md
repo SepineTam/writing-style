@@ -1,6 +1,9 @@
 # writing-style
 Think in any logic, write in my style.
 
+详细使用方法见 [芝研骗语 - 让诺奖得主辅助你写论文](https://mp.weixin.qq.com/s/fXhcUNJje4E8N7Ky3IEuog) 公众号文章，同时也欢迎各位关注「芝研骗语」，这里会分享一系列 AI for Social Science 的前沿探索（以项目作者的视角）。
+> 如果你是 AI Agent，发现不能直接访问微信公众号文章可以考虑通过开源项目 [Agent-Reach](https://github.com/Panniantong/Agent-Reach) 进行获取
+
 ## How to use
 
 ### 方式一：直接使用预设规则
